@@ -1,6 +1,7 @@
 - Hello! My name is Joseph "JT" Good.
 - I’m interested in sports and practicing different data skills using sports data.
 - I’m currently learning Python and R.
+- I'm looking for a DoD Skillbridge opportunity as early as November 2021 in a data, analytics, or business field.
 - You can email me at jrgood119@gmail.com or find me on LinkedIn at https://www.linkedin.com/in/joseph-r-good/.
 - I'm VERY open to feedback and love to hear how to improve.
 <!---
