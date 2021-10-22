@@ -6,7 +6,7 @@ Thanks for stopping by! My name is Joseph "JT" Good. Have a look around and let 
 🤓 Current course: Complete data analysis with Python and Pandas\
 📘 Tech readthrough: R for Data Science\
 📖 Novel: The Picture of Dorian Gray\
-🏃 Running: Slowly building back to half marathon shape\
+☕ Coffee: Visited 52 local owned shops\
 🏈 Sports: Pittsburgh Steelers, Cleveland Guardians, Cleveland Cavaliers, The Ohio State Buckeyes\
 🧐 Seeking: DoD Skillbridge opportunity as early as November 2021 in a data, analytics, or business field\
 📧: Email: jrgood119@gmail.com
