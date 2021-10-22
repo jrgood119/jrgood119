@@ -1,6 +1,6 @@
 # Hey, You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello! My name is Joseph "JT" Good
+Thanks for stopping by! My name is Joseph "JT" Good. Have a look around and let me know if I can assist in any way.
 
 ## What I'm Up To
 🤓 Current course: Complete data analysis with Python and Pandas\
