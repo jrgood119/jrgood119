@@ -1,6 +1,6 @@
 # Hey, You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Thanks for stopping by! My name is Joseph "JT" Good. Have a look around and let me know if I can assist in any way.
+Thanks for stopping by! My name is JT Good. Have a look around and let me know if I can assist in any way.
 
 ## What I'm Up To
 📘 Tech readthrough: Tableau Desktop Specialist Certification by Adam Mico\
