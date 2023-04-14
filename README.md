@@ -3,12 +3,10 @@
 Thanks for stopping by! My name is Joseph "JT" Good. Have a look around and let me know if I can assist in any way.
 
 ## What I'm Up To
-🤓 Current course: Freecodecamp SQL Tutorial\
-📘 Tech readthrough: R for Data Science\
-📖 Novel: East of Eden\
-☕ Coffee: Visited 52 local owned shops\
+📘 Tech readthrough: Tableau Desktop Specialist Certification by Adam Mico\
+📖 Novel: I am Malala\
+☕ Coffee: Visited 94 local owned shops\
 🏈 Sports: Pittsburgh Steelers, Cleveland Guardians, Cleveland Cavaliers, The Ohio State Buckeyes\
-🧐 Seeking: DoD Skillbridge opportunity as early as November 2021 in a data, analytics, or business field\
 📧: Email: jrgood119@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/joseph-r-good/)
