@@ -3,9 +3,9 @@
 Thanks for stopping by! My name is JT Good. Have a look around and let me know if I can assist in any way.
 
 ## What I'm Up To
-📘 Tech readthrough: Tableau Desktop Specialist Certification by Adam Mico\
-📖 Novel: I am Malala\
-☕ Coffee: Visited 94 local owned shops\
+📘 Tech readthrough: Python Crash Course: A Hands-On Project-Based Introduction to Programming by Eric Matthes\
+📖 Novel: A Little Life by Hanya Yanagihar\
+☕ Coffee: Visited 100 local owned shops\
 🏈 Sports: Pittsburgh Steelers, Cleveland Guardians, Cleveland Cavaliers, The Ohio State Buckeyes\
 📧: Email: jrgood119@gmail.com
 
